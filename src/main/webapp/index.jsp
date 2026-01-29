@@ -826,10 +826,10 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection in 2026</h1>
+            <h1>Summer Collection in 2027</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Buy Now</a>
+                <a href="#" class="btn btn-primary">Show Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
             </div>
         </div>
@@ -995,7 +995,7 @@
                     
                     <p>Only <strong>12</strong> items left at this price!</p>
                     
-                    <button class="btn btn-primary" style="padding: 12px 30px; margin-top: 20px;">Buy Now</button>
+                    <button class="btn btn-primary" style="padding: 12px 30px; margin-top: 20px;">Show  Now</button>
                 </div>
             </div>
         </div>
@@ -1016,7 +1016,7 @@
                     <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
                         <div class="user-name">Sarah J.</div>
-                        <div class="user-title">Verified Buyer</div>
+                        <div class="user-title">Verified Show er</div>
                     </div>
                 </div>
             </div>
@@ -1027,7 +1027,7 @@
                     <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Michael T." class="user-avatar">
                     <div>
                         <div class="user-name">Michael T.</div>
-                        <div class="user-title">Verified Buyer</div>
+                        <div class="user-title">Verified Show er</div>
                     </div>
                 </div>
             </div>
@@ -1038,7 +1038,7 @@
                     <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Emma L." class="user-avatar">
                     <div>
                         <div class="user-name">Emma L.</div>
-                        <div class="user-title">Verified Buyer</div>
+                        <div class="user-title">Verified Show er</div>
                     </div>
                 </div>
             </div>
@@ -1049,7 +1049,7 @@
                     <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="David K." class="user-avatar">
                     <div>
                         <div class="user-name">David K.</div>
-                        <div class="user-title">Verified Buyer</div>
+                        <div class="user-title">Verified Show er</div>
                     </div>
                 </div>
             </div>
