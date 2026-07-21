@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.220.188.96:8081/repository/Myrepo/</url>
+		    <url>http://52.91.158.100:8081/repository/Myrepo/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.220.188.96:8081/repository/Myrepo/</url>
+		    <url>http://52.91.158.100:8081/repository/Myrepo/</url>
 		</repository>
   	</distributionManagement>
 	
